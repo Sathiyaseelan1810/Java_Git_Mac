@@ -19,7 +19,7 @@ public class Program1_Test {
 
     public void test2()
     {
-        assertEquals("String doesn't matches", "Asrithvel",pgm1.method3("Asrith","vel"));
+        assertEquals("String doesn't matches", "AsrithvelSathiya",pgm1.method3("Asrith","vel","Sathiya"));
 
     }
 
