@@ -22,6 +22,10 @@ public class Program1_Test {
         assertEquals("String doesn't matches", "AsrithvelSathiya",pgm1.method3("Asrith","vel","Sathiya"));
 
     }
+    @Test
 
-
+    public void test3()
+    {
+        assertEquals("Second Message", "jothiraniasrith",pgm1.method3("jothi","rani","asrith"));
+    }
 }
