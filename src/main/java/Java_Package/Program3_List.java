@@ -18,6 +18,7 @@ public class Program3_List {
         int[] art = {10,11,12,13,14};
         logger.error("this is error");
         logger.info("This is info");
+        logger.warn("Hello Warning");
 
         String[] arrs = {"First","Second","Third","Fourth","fifth"};
 
